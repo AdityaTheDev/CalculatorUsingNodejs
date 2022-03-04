@@ -10,6 +10,6 @@ clone this repo.
 
 Install the required NPM dependencies
 
-then to activate the server type node server.js i in cmd or in any shell
+then to activate the server type node server.js in cmd or in any shell
 
 That's it the website will run on your local live server. Type this URL http://127.0.0.1:3000/ to run
