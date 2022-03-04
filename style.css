@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	background-color:black;
+}
+.container{
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+    background-color: aqua;
+}
+.text{
+
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.button{
+
+	justify-content:center;
+	align-items:center;
+}
